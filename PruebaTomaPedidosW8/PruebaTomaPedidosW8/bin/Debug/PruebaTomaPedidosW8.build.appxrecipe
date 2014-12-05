@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VIRTUAL</Machine>
+    <WindowsUser>Guido</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f6b40aae-20d2-4b6e-87a6-4264764a29a4</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\bld\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\main\main.css">
+      <PackagePath>pages\main\main.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\css\ui-dark.min.css">
+      <PackagePath>WinJS\css\ui-dark.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\css\ui-light.min.css">
+      <PackagePath>WinJS\css\ui-light.min.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\js\common.js">
+      <PackagePath>js\common.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\main\main.js">
+      <PackagePath>pages\main\main.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\Scripts\jquery-2.1.1.intellisense.js">
+      <PackagePath>Scripts\jquery-2.1.1.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\Scripts\jquery-2.1.1.js">
+      <PackagePath>Scripts\jquery-2.1.1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\Scripts\jquery-2.1.1.min.js">
+      <PackagePath>Scripts\jquery-2.1.1.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\base.min.js">
+      <PackagePath>WinJS\js\base.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\ui.min.js">
+      <PackagePath>WinJS\js\ui.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\WinJS.js">
+      <PackagePath>WinJS\js\WinJS.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\WinJS.min.js">
+      <PackagePath>WinJS\js\WinJS.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\packages.config">
+      <PackagePath>packages.config</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\main\main.html">
+      <PackagePath>pages\main\main.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\Scripts\jquery-2.1.1.min.map">
+      <PackagePath>Scripts\jquery-2.1.1.min.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\base.min.js.map">
+      <PackagePath>WinJS\js\base.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\ui.min.js.map">
+      <PackagePath>WinJS\js\ui.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\WinJS.min.js.map">
+      <PackagePath>WinJS\js\WinJS.min.js.map</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\License.txt">
+      <PackagePath>WinJS\License.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\README.md">
+      <PackagePath>WinJS\README.md</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

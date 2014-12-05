@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VIRTUAL</Machine>
+    <WindowsUser>Guido</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f6b40aae-20d2-4b6e-87a6-4264764a29a4</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>D3EBCC73E6A3FD1483090A001A6F9784AC17705E94C3F058F53A2BFC999EBC88</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>f6b40aae-20d2-4b6e-87a6-4264764a29a4_1.0.0.0_neutral__q0j7yb29h4eft</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>f6b40aae-20d2-4b6e-87a6-4264764a29a4_q0j7yb29h4eft!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>f6b40aae-20d2-4b6e-87a6-4264764a29a4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Guido</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-12-03T01:52:42.105</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2014-12-02T23:31:44.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\home\home.css">
+      <PackagePath>pages\home\home.css</PackagePath>
+      <Modified>2014-12-02T23:31:44.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\main\main.css">
+      <PackagePath>pages\main\main.css</PackagePath>
+      <Modified>2014-12-03T01:50:23.486</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2014-12-03T00:35:32.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\css\ui-dark.min.css">
+      <PackagePath>WinJS\css\ui-dark.min.css</PackagePath>
+      <Modified>2014-12-03T00:35:31.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2014-12-03T00:35:31.345</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\css\ui-light.min.css">
+      <PackagePath>WinJS\css\ui-light.min.css</PackagePath>
+      <Modified>2014-12-03T00:35:30.926</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T20:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T20:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\images\splashscreen.scale-100.png">
+      <PackagePath>images\splashscreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T20:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-02T20:38:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\js\common.js">
+      <PackagePath>js\common.js</PackagePath>
+      <Modified>2014-12-03T01:48:19.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2014-12-02T23:31:44.873</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\js\navigator.js">
+      <PackagePath>js\navigator.js</PackagePath>
+      <Modified>2014-12-02T23:31:45.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\home\home.js">
+      <PackagePath>pages\home\home.js</PackagePath>
+      <Modified>2014-12-03T01:55:49.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\main\main.js">
+      <PackagePath>pages\main\main.js</PackagePath>
+      <Modified>2014-12-03T01:50:22.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\Scripts\jquery-2.1.1.intellisense.js">
+      <PackagePath>Scripts\jquery-2.1.1.intellisense.js</PackagePath>
+      <Modified>2014-12-03T01:14:06.679</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\Scripts\jquery-2.1.1.js">
+      <PackagePath>Scripts\jquery-2.1.1.js</PackagePath>
+      <Modified>2014-12-03T01:14:08.408</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\Scripts\jquery-2.1.1.min.js">
+      <PackagePath>Scripts\jquery-2.1.1.min.js</PackagePath>
+      <Modified>2014-12-03T01:14:07.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2014-12-03T00:35:29.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\base.min.js">
+      <PackagePath>WinJS\js\base.min.js</PackagePath>
+      <Modified>2014-12-03T00:35:29.099</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2014-12-03T00:35:28.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2014-12-03T00:35:27.845</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\ui.min.js">
+      <PackagePath>WinJS\js\ui.min.js</PackagePath>
+      <Modified>2014-12-03T00:35:27.124</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\WinJS.js">
+      <PackagePath>WinJS\js\WinJS.js</PackagePath>
+      <Modified>2014-12-03T00:35:26.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\WinJS.min.js">
+      <PackagePath>WinJS\js\WinJS.min.js</PackagePath>
+      <Modified>2014-12-03T00:35:25.769</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\packages.config">
+      <PackagePath>packages.config</PackagePath>
+      <Modified>2014-12-03T01:14:08.746</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\home\home.html">
+      <PackagePath>pages\home\home.html</PackagePath>
+      <Modified>2014-12-03T00:37:41.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2014-12-03T01:39:51.638</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\pages\main\main.html">
+      <PackagePath>pages\main\main.html</PackagePath>
+      <Modified>2014-12-03T02:13:07.140</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\Scripts\jquery-2.1.1.min.map">
+      <PackagePath>Scripts\jquery-2.1.1.min.map</PackagePath>
+      <Modified>2014-12-03T01:14:07.479</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\base.min.js.map">
+      <PackagePath>WinJS\js\base.min.js.map</PackagePath>
+      <Modified>2014-12-03T00:35:28.718</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\ui.min.js.map">
+      <PackagePath>WinJS\js\ui.min.js.map</PackagePath>
+      <Modified>2014-12-03T00:35:26.586</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\js\WinJS.min.js.map">
+      <PackagePath>WinJS\js\WinJS.min.js.map</PackagePath>
+      <Modified>2014-12-03T00:35:25.268</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2014-12-03T00:35:30.136</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\License.txt">
+      <PackagePath>WinJS\License.txt</PackagePath>
+      <Modified>2014-12-03T00:35:24.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\WinJS\README.md">
+      <PackagePath>WinJS\README.md</PackagePath>
+      <Modified>2014-12-03T00:35:23.354</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\guido\documents\visual studio 2013\Projects\PruebaTomaPedidosW8\PruebaTomaPedidosW8\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-12-03T01:52:42.023</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\">
+      <Name>Microsoft.WinJS.2.0</Name>
+      <Version>1.0.9600.17018</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.2.0, MinVersion=1.0.9600.17018</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Microsoft.WinJS.2.0\1.0\Microsoft.WinJS.2.0.appx</AppxLocation>
+      <MoreInfo>http://go.microsoft.com/fwlink/%3fLinkId=260891</MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
